@@ -1,6 +1,7 @@
-package moe.ingstar.meforge.item;
+package moe.ingstar.meforge.registry;
 
 import moe.ingstar.meforge.Me;
+import moe.ingstar.meforge.item.ContainerOfHeart;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;

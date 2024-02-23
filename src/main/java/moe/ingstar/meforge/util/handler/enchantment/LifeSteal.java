@@ -24,7 +24,6 @@ public class LifeSteal {
 
                 if (lifeStealLevel > 0) {
                     float lifeStealAmount = damageAmount * (lifeStealLevel * 0.1f);
-                    System.out.println(lifeStealAmount);
 
                     attacker.heal(lifeStealAmount);
                 }
