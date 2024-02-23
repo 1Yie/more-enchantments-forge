@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "meforge_ingstar:item/container_of_heart"
+  }
+}
